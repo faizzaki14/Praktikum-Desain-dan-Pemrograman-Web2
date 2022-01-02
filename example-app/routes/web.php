@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\myController;
 
 /*
 |--------------------------------------------------------------------------
@@ -16,3 +17,12 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
+
+//Penulisan laravel 7
+// Route::get('/beranda', 'myController@index');
+
+//Penulisan laravel 8
+// Route :: get('/beranda', [myController::class, 'index']);
+
+//langsung ke view
+Route::view('/beranda', 'beranda');
