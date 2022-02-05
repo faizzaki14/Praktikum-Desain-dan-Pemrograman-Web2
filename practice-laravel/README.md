@@ -1,14 +1,4 @@
-> Pertemuan-10
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
-=======
-# Praktikum-Desain-dan-Pemrograman-Web2
-> Pertemuan-2
-
-## Output Hasil :
-![BIO](https://user-images.githubusercontent.com/56437913/139231477-0c6e7427-f2ab-46a9-ae02-2de10d8b2af1.png)
-=======
-### File Praktikum ada disetiap branche
-> main
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
@@ -17,7 +7,6 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-> Pertemuan-10
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -75,7 +64,3 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-=======
-Akses -> https://carikerjakuy.000webhostapp.com/
-> main
-> main
